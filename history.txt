@@ -1,0 +1,38 @@
+    1  sudo apt-get synaptic
+    2  sudo apt-get install synaptic
+    3  sudo shutdown
+    4  sudo apt-get install brackets
+    5  sudo add-apt-repository ppa:webupd8team/brackets
+    6  sudo apt-get update
+    7  sudo apt-get install brackets
+    8  sudo apt-get install synaptic
+    9  sudo apt-get install apache2
+   10  sudo apt-get install mysql-server
+   11  sudo apt-get install php5 libapache2-mod-php5
+   12  sudo /etc/init.d/apache2 restart
+   13  mkdir git
+   14  ls
+   15  sudo apt-get git
+   16  sudo apt-get install git
+   17  cd ~
+   18  pwd
+   19  clear
+   20  mysql -u root op 
+   21  mysql -u root -p 
+   22  exit
+   23  mysql -u root -p 
+   24  clear
+   25  git init
+   26  git status
+   27  mysqldump -u root -p >backup.sql
+   28  mysqldump -u root -p Classes >mybackup.sql
+   29  git add backup.qsl 
+   30  git add backup.sql
+   31  git staus
+   32  git status
+   33  git add mybackup.sql
+   34  git status
+   35  git commit 
+   36  git config --global user.name "Erol Ozer"
+   37  git config --global user.email"eo53@njit.edu"
+   38  history >history.txt
